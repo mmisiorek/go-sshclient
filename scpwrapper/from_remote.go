@@ -1,7 +1,7 @@
 package scpwrapper
 
 import (
-	"github.com/eugenmayer/go-scp"
+	"github.com/mmisiorek/go-scp"
 	"golang.org/x/crypto/ssh"
 )
 
