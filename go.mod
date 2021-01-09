@@ -1,4 +1,4 @@
-module github.com/eugenmayer/go-sshclient
+module github.com/mmisiorek/go-sshclient
 
 go 1.14
 
